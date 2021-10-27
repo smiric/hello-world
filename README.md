@@ -1,3 +1,3 @@
 # hello-world
 prvi repozitorij
-System.out.printf("KajE");
+System.out.printf("Hello world");
